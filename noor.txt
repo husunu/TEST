@@ -1,5 +1,10 @@
 hi
 this is noor pottan not uyuy
 you are husain greate
+<<<<<<< HEAD
 line added
 again added
+=======
+noor edited file but husain did not asdf
+asdfas
+>>>>>>> fd103c205fda4193ea2d1d09f8fa9ce8511648a5
